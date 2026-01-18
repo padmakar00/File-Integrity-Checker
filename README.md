@@ -237,3 +237,7 @@ Cryptographic hash-based integrity checking is really good, at making sure thing
 
 The File Integrity Checker project successfully demonstrates how Python can be used to build a practical security application. By combining cryptographic hashing, file system traversal, GUI development, and application packaging, this project provides a complete solution for monitoring file integrity. The project not only enhances understanding of cybersecurity concepts but also offers hands-on experience in developing real-world desktop applications. This makes it suitable for academic submissions, mini-projects, and practical demonstrations
 
+OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b191ebb9-7c11-4a28-9c2e-6b50ea96c0df" />
+
